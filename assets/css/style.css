@@ -1,0 +1,24 @@
+.margin-arriba-3{
+  margin-top: 3%;
+}
+
+.margin-izquierda-3{
+  margin-left: 3%;
+}
+
+.margin-izquierda-8{
+  margin-left: 8%;
+}
+
+.inactivo{
+  background-color: #bbb;
+}
+.statusInactivo{
+  color:rgb(161, 21, 21);
+  font-weight:bold ;
+}
+.statusActivo{
+  color:rgb(21, 114, 21);
+  font-weight:bold ;
+}
+
